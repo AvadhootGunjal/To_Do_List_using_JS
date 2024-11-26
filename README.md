@@ -1,7 +1,5 @@
 # To_Do_List_using_JS
 
-# To Do List Using JavaScript
-
 ## Overview
 This project is a simple **To-Do List application** built using HTML, CSS, and JavaScript. It allows users to add, view, and delete tasks in a visually appealing interface. The project is designed to help beginners understand DOM manipulation and event handling in JavaScript.
 
